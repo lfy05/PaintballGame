@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{798F1C34-4EDB-0912-FFE7-109160FCC9D7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PaintballGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
